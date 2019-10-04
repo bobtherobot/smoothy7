@@ -2,7 +2,7 @@
 	"name": "smoothy-7-theme",
 	"displayName": "Smoothy 7",
 	"description": "A light theme",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"publisher": "gieson",
 	"publisherDisplayName": "michael gieson",
 	"license": "MIT",
@@ -19,7 +19,15 @@
 	"keywords": [
 		"gieson",
 		"smoothy",
-		"light"
+		"light",
+		"boilerplate",
+		"web",
+		"html", 
+		"javascript",
+		"js",
+		"css",
+		"web dev",
+		"web development"
 	],
 	"icon": "icon.png",
 	"contributes": {
