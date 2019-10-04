@@ -1,0 +1,54 @@
+{
+	"name": "smoothy-7-theme",
+	"displayName": "Smoothy 7",
+	"description": "A light theme",
+	"version": "2.0.0",
+	"publisher": "gieson",
+	"publisherDisplayName": "michael gieson",
+	"license": "MIT",
+	"galleryBanner": {
+		"color": "#EFEFEF",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"gieson",
+		"smoothy",
+		"light"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Smoothy 7",
+				"uiTheme": "vs",
+				"path": "./themes/Smoothy_7.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "smoothy-7-icon-theme",
+				"label": "Smoothy 7 Icons",
+				"path": "./fileicons/smoothy-7-icon-theme.json"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://www.gieson.com",
+		"email": "gieson007@gmail.com"
+	},
+	"homepage": "https://www.gieson.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bobtherobot"
+	},
+	"__metadata": {
+		"publisherId": "gieson",
+		"publisherDisplayName": "michael gieson"
+	}
+}

@@ -1,0 +1,178 @@
+{
+	"iconDefinitions": {
+		"_file": {
+			"iconPath": "./images/light-file.svg"
+		},
+		"_folder": {
+			"iconPath": "./images/light-folder.svg"
+		},
+		"_light_file-full-c-01": {
+			"iconPath": "./images/light-file-full-c-01-yellow.svg"
+		},
+		"_light_file-full-c-02": {
+			"iconPath": "./images/light-file-full-c-02-orange.svg"
+		},
+		"_light_file-full-c-03": {
+			"iconPath": "./images/light-file-full-c-03-red.svg"
+		},
+		"_light_file-full-c-04": {
+			"iconPath": "./images/light-file-full-c-04-pink.svg"
+		},
+		"_light_file-full-c-05": {
+			"iconPath": "./images/light-file-full-c-05-purple-lt.svg"
+		},
+		"_light_file-full-c-06": {
+			"iconPath": "./images/light-file-full-c-06-purple.svg"
+		},
+		"_light_file-full-c-07": {
+			"iconPath": "./images/light-file-full-c-07-blue.svg"
+		},
+		"_light_file-full-c-08": {
+			"iconPath": "./images/light-file-full-c-08-blue-lt.svg"
+		},
+		"_light_file-full-c-09": {
+			"iconPath": "./images/light-file-full-c-09-teal.svg"
+		},
+		"_light_file-full-c-10": {
+			"iconPath": "./images/light-file-full-c-10-green.svg"
+		},
+		"_light_file-full-c-11": {
+			"iconPath": "./images/light-file-full-c-11-lime.svg"
+		},
+		// grey file
+		"_light_file-full-g-01": {
+			"iconPath": "./images/light-file-full-g-01.svg"
+		},
+		"_light_file-full-g-02": {
+			"iconPath": "./images/light-file-full-g-02.svg"
+		},
+		"_light_file-full-g-03": {
+			"iconPath": "./images/light-file-full-g-03.svg"
+		}
+	},
+	"file": "_light_file-full-g-02",
+	"folder": "_folder",
+	"hidesExplorerArrows": true,
+	"light": {
+		"file": "_file_l",
+		"fileExtensions": {
+			
+			// web dev
+			  "js": "_light_file-full-c-01"
+			, "json": "_light_file-full-c-10"
+			, "html": "_light_file-full-c-02"
+			, "shtml": "_light_file-full-c-02"
+			, "htm": "_light_file-full-c-02"
+			, "css": "_light_file-full-c-08"
+			, "scss": "_light_file-full-c-07"
+			, "sass": "_light_file-full-c-07"
+			, "less": "_light_file-full-c-07"
+			, "xml": "_light_file-full-c-05"
+			, "php": "_light_file-full-c-06"
+			, "php5": "_light_file-full-c-06"
+			, "php6": "_light_file-full-c-06"
+			, "php7": "_light_file-full-c-06"
+			
+			// images
+			, "svg": "_light_file-full-c-05"
+			, "jpg": "_light_file-full-c-05"
+			, "bmp": "_light_file-full-c-05"
+			, "png": "_light_file-full-c-05"
+			, "jpeg": "_light_file-full-c-05"
+			, "gif": "_light_file-full-c-05"
+			, "tif": "_light_file-full-c-05"
+			, "tiff": "_light_file-full-c-05"
+			, "psd": "_light_file-full-c-05"
+			, "dxf": "_light_file-full-c-05"
+			, "ai": "_light_file-full-c-05"
+			, "ico": "_light_file-full-c-05"
+			, "icns": "_light_file-full-c-05"
+			
+			// text
+			, "text": "_light_file-full-c-10"
+			, "txt": "_light_file-full-c-10"
+			, "md": "_light_file-full-c-11"
+			, "conf": "_light_file-full-c-09"
+
+			// executables
+			, "bat": "_light_file-full-g-02"
+			, "sh": "_light_file-full-g-02"
+			, "command": "_light_file-full-g-03"
+			, "exe": "_light_file-full-g-03"
+			, "dll": "_light_file-full-g-02"
+
+			// compressed
+			, "zip": "_light_file-full-g-03"
+			, "zipx": "_light_file-full-g-03"
+			, "7zip": "_light_file-full-g-03"
+			, "7z": "_light_file-full-g-03"
+			, "dmg": "_light_file-full-g-03"
+			, "iso": "_light_file-full-g-03"
+			, "rar": "_light_file-full-g-03"
+			, "gz": "_light_file-full-g-03"
+			, "lz": "_light_file-full-g-03"
+			, "tar": "_light_file-full-g-03"
+			, "tgz": "_light_file-full-g-03"
+			, "z": "_light_file-full-g-03"
+			, "txz": "_light_file-full-g-03"
+			, "xz": "_light_file-full-g-03"
+			, "lzma": "_light_file-full-g-03"
+			, "apk": "_light_file-full-g-03"
+			, "arc": "_light_file-full-g-03"
+			, "ark": "_light_file-full-g-03"
+			, "cab": "_light_file-full-g-03"
+			, "car": "_light_file-full-g-03"
+			, "jar": "_light_file-full-g-03"
+			, "pak": "_light_file-full-g-03"
+			, "sfx": "_light_file-full-g-03"
+			, "sit": "_light_file-full-g-03"
+			, "sitx": "_light_file-full-g-03"
+			, "war": "_light_file-full-g-03"
+
+			// css / js mim maps
+			, "map": "_light_file-full-c-09"
+
+			// ide project files
+			//, "sublime-workspace": "_light_file-full-g-02"
+			//, "sublime-project": "_light_file-full-g-02"
+			
+			// video
+			, "mp4": "_light_file-full-c-10"
+			, "m4v": "_light_file-full-c-10"
+			, "mpeg": "_light_file-full-c-10"
+			, "webm": "_light_file-full-c-10"
+			, "mpeg": "_light_file-full-c-10"
+			, "mov": "_light_file-full-c-10"
+
+			// audio
+			, "mp3": "_light_file-full-c-11"
+			, "m4a": "_light_file-full-c-11"
+			, "aac": "_light_file-full-c-11"
+			, "mp4": "_light_file-full-c-11"
+			, "ogg": "_light_file-full-c-11"
+			, "oga": "_light_file-full-c-11"
+			, "wav": "_light_file-full-c-11"
+
+			// certificates
+			, "cer": "_light_file-full-c-03"
+			, "crt": "_light_file-full-c-03"
+			, "csr": "_light_file-full-c-03"
+			, "key": "_light_file-full-c-03"
+			, "rsa": "_light_file-full-c-03"
+			, "pk2": "_light_file-full-c-03"
+
+		},
+		"fileNames" : {
+			  ".editorconfig": "_light_file-full-g-02"
+			, ".eslintrc": "_light_file-full-g-02"
+			, ".gitconfig": "_light_file-full-g-02"
+			, ".gitignore": "_light_file-full-g-02"
+			, ".gitattributes": "_light_file-full-g-02"
+			, ".gitattributes": "_light_file-full-g-02"
+		},
+
+		"gitattributes": "_light_file-full-g-02",
+		"gitignore": "_light_file-full-g-02",
+
+	}
+}
