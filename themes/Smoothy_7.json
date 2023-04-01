@@ -34,9 +34,12 @@
     "editor.background": "#FFF",
     "editor.foreground": "#000",
     "editor.selectionBackground": "#d1ecff",
-    "editor.lineHighlightBackground": "#ffffc6",
-    "editor.findMatchBackground": "#fcf054",
-    "editor.findMatchHighlightBackground": "#fffb00", // (multiple finds)  tricky one to find
+    "editor.lineHighlightBackground": "#ffff0037",
+    "editor.findMatchBackground": "#41ff0d32",
+    "editor.findMatchHighlightBackground": "#fff30d73", // (multiple finds)  tricky one to find
+    "editorBracketMatch.background" : "#2cff0272",
+    "editorBracketMatch.border" : "#ffffff00",
+    //"editorBracketHighlight.unexpectedBracket.foreground" : "#FF0000",
     "editorCursor.foreground": "#000000",
     "editorWhitespace.foreground": "#eeeeee",
     "editorLineNumber.foreground": "#b4b4b4",
@@ -52,7 +55,7 @@
     "statusBar.noFolderBackground": "#333",
     "statusBar.foreground": "#ccc",
     "statusBarItem.prominentBackground": "#39f",
-    "dropdown.background": "#f0f0f000",
+    "dropdown.background": "#f0f0f0",
     "dropdown.border": "#f0f0f0",
     "gitDecoration.ignoredResourceForeground": "#a0a0a0"
   },
