@@ -1,4 +1,4 @@
-### Version 2.0.1
+### Version 2.0.2
 
 - tweak search results yellow (alpha)
 - matching brackets green
